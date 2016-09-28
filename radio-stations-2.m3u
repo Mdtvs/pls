@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:123,радио россии бурятия
+http://94.25.43.69:4081/
+
+#EXTINF:123,радио россии
+mms://live.rfn.ru/radiorussia
+
+#EXTINF:123,рсн
+http://cluster.quantumart.ru/broadcast/default.aspx?media=rsn
+
+#EXTINF:123,дорожное
+http://dorognoe.hostingradio.ru:8000/dorognoe.m3u
+
+#EXTINF:0,123,маяк
+http://188.168.30.188:8002/
+
+#EXTINF:0,123,нод
+http://radio.rusnod.ru:8000/radio
+
+#EXTINF:0,123,говорит москва
+http://88.150.175.154:8000/rufm.mp3

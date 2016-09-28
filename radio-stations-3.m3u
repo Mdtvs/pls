@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+http://s7.radioheart.ru:8014/live
+#EXTINF:123,http://94.25.43.69:4081/
+#EXTINF:123,mms://live.rfn.ru/radiorussia
+#EXTINF:123,http://cluster.quantumart.ru/broadcast/default.aspx?media=rsn
+http://dorognoe.hostingradio.ru:8000/dorognoe
+#EXTINF:0,123 - http://188.168.30.188:8002/
+#EXTINF:0,123 - http://radio.rusnod.ru:8000/radio
+#EXTINF:0,123 - http://88.150.175.154:8000/rufm.mp3
